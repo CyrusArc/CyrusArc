@@ -1,45 +1,88 @@
-## Hi there 👋
-
-<!--
-**CyrusArc/CyrusArc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusarc&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusarc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrusarc" alt="cyrusarc" /></a> </p>
-
-- 🌱 I’m currently learning **Content Creation**
-
-- 💬 Ask me about **Ai engineering**
-
-- 📫 How to reach me **wilsonxaxa01@gmail.com**
-
-- ⚡ Fun fact **I am a content Creator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wilson xaxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson xaxa" height="30" width="40" /></a>
-<a href="https://kaggle.com/wilson xaxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wilson xaxa" height="30" width="40" /></a>
+<div align="center">
+<!-- Replace these links with your real social profiles. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Cyrus%20Arc&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=59&descSize=17" width="100%" alt="Cyrus Arc banner" />
+<p>
+  <a href="https://github.com/CyrusArc"><img src="https://img.shields.io/badge/GitHub-CyrusArc-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CyrusArc&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusarc&show_icons=true&locale=en&layout=compact" alt="cyrusarc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrusarc&show_icons=true&locale=en" alt="cyrusarc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrusarc&" alt="cyrusarc" /></p>
+Building, learning, and shipping — one project at a time.
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech stack</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
+</div>
+---
+👨‍💻 About Me
+🤖 Exploring AI engineering, machine learning, and practical software development.
+🌱 Currently learning and improving through hands-on projects.
+🎬 Interested in content creation and communicating technical ideas clearly.
+🎯 My focus: build useful projects, strengthen fundamentals, and keep learning in public.
+📍 Based in India.
+> **Current principle:** Learn deeply. Build consistently. Share what works.
+🧰 Tech Stack
+> Keep only technologies you can comfortably discuss or have genuinely started learning.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,mongodb,mysql,pytorch,tensorflow,sklearn&perline=6" alt="Technology icons: Python, Java, C, C++, Git, GitHub, VS Code, MongoDB, MySQL, PyTorch, TensorFlow, and scikit-learn" />
+</p>
+Currently exploring: AI/ML • Data structures & algorithms • Backend development
+📊 GitHub Analytics
+<div align="center">
+<!-- GitHub Readme Stats: if the hosted service is temporarily unavailable, the cards may not load. -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CyrusArc&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Cyrus Arc GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusArc&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most-used languages on GitHub" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyrusArc&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+🗓️ Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyrusArc&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
+🏆 Profile Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CyrusArc&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
+</div>
+📌 Quick Profile Links
+<p align="center">
+  <a href="https://github.com/CyrusArc?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+  <a href="https://github.com/CyrusArc?tab=stars"><img src="https://img.shields.io/badge/View-My%20Stars-0F766E?style=for-the-badge&logo=github" alt="View starred repositories" /></a>
+  <a href="https://github.com/CyrusArc?tab=overview&from=2020-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/View-Contributions-7C3AED?style=for-the-badge&logo=github" alt="View contributions" /></a>
+</p>
+> **Analytics note:** The stats cards are generated by community-hosted services, not GitHub itself. They can occasionally be rate-limited or unavailable. Language cards estimate language share from repositories and may not reflect skill level.
+🚀 Featured Projects
+<!-- Replace the placeholders below with your real repositories and one-line descriptions.
+<!--
+When you have chosen your real repositories, uncomment this block and replace
+REPOSITORY-ONE / REPOSITORY-TWO with exact repository names. Leaving the sample
+names active would create broken project cards.
+<div align="center">
+  <a href="https://github.com/CyrusArc/REPOSITORY-ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrusArc&repo=REPOSITORY-ONE&theme=tokyonight&hide_border=true" alt="Featured project one" />
+  </a>
+  <a href="https://github.com/CyrusArc/REPOSITORY-TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyrusArc&repo=REPOSITORY-TWO&theme=tokyonight&hide_border=true" alt="Featured project two" />
+  </a>
+</div>
+Project checklist — make each featured repo useful to visitors:
+Clear problem statement and README.
+Screenshots or a short demo, when relevant.
+Setup instructions and example usage.
+Tech stack, key decisions, and what you learned.
+📚 What I'm Working On
+[ ] Build and document an AI/ML project from end to end.
+[ ] Improve my software engineering fundamentals.
+[ ] Publish clear project READMEs and practical demos.
+<!-- Update these checklist items as your goals change. -->
+🤝 Connect With Me
+<p align="center">
+  <!-- Replace these placeholder URLs with your actual profile URLs. -->
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:wilsonxaxa01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<div align="center">
+Thanks for stopping by! ⭐
+If something here interests you, explore a repository, share feedback, or connect.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="" />
+</div>
